@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "76987656615",
+    "project_id": "maplatlon-e1c2a",
+    "storage_bucket": "maplatlon-e1c2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76987656615:android:8e85de25f906564d446e82",
+        "android_client_info": {
+          "package_name": "com.example.googlemap_latlon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76987656615-nm73dsbto7ekeumoavt6em7e7jphfhj5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.googlemap_latlon",
+            "certificate_hash": "84c7beac02caaf39c3b73a0bde9c2057acdd6be2"
+          }
+        },
+        {
+          "client_id": "76987656615-e5nlgq1vr3toanntibe5kbcpke0pojbo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASWSxeHVRwcr4tY87n2u6DnwNM90xYsqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76987656615-e5nlgq1vr3toanntibe5kbcpke0pojbo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
